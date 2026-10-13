@@ -4,5 +4,5 @@ class_list=[]
 
 for i in range():
     class_list
-    sum+=
+    sum+= 0
 print("the sum of list element is: ",sum[i])

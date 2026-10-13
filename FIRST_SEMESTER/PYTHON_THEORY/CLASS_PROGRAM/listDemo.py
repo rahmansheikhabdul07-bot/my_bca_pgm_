@@ -11,4 +11,11 @@ for number in range (5):
 print("list elements are: ")
 for i in range(len(my_marks)):
     print("your marks: ", my_marks[i])
+
+for i in range (len(my_marks)):
+   
+    sum += my_marks[i]
+    print(sum)
+
+
     
